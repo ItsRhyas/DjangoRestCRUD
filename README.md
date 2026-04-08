@@ -1,4 +1,4 @@
-# User CRUD Boilerplate
+# CRUD hecho por OpenCode
 
 Minimal full-stack CRUD app for users with `name` and `email`.
 
